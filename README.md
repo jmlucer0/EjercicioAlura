@@ -1,0 +1,1 @@
+En esta aplicacion hacemos uso de la API de 'https://swapi.dev/', ingresamos un numero y nos devolvera la pelicula correspondiente a la saga. Tambien creara un directorio y guardara la descripcion de la pelicula.
